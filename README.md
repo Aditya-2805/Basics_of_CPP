@@ -1,9 +1,11 @@
-<h1>Aim: </h1>
-<pTo study and implement C++ Bitwise Operators</p>
+<h1>Aim</h1>
+<p>To study and implement C++ bitwise operators</p>
 <hr>
-<h1>Description: </h1>
-<p>C++ programming involves defining variables to store data, utilizing various data types like int, float, char, and double. It supports complex structures like arrays, pointers, and classes for object-oriented programming. Variables are declared with a type, and C++ provides type safety and control over memory management through its robust features.</p>
+<h1>Software Required</h1>
+<p>VS code</p>
 <hr>
-<h1>SOftware Used: </h1>
-<p>Online C++ Compiler</p>
-
+<h1>Theory</h1>
+<p>Bitwise operators in C++ perform operations at the binary level, directly manipulating the bits of integer data types. These operators include AND (&), OR (|), XOR (^), NOT (~), and bitwise shifts (<<, >>). Understanding bitwise operators is essential for tasks requiring low-level data processing, such as optimizing performance or managing binary data.</p>
+<hr>
+<h1>Conclusion</h1>
+<p>Through our experiment with C++ bitwise operators, we demonstrated their ability to efficiently manipulate individual bits of data. This understanding is crucial for tasks that require precise control over data at the binary level.</p>
